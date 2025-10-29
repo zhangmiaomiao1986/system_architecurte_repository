@@ -1104,7 +1104,7 @@
         <mxCell id="wHxE2oGUJ_YN22llIvqM-183" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CUD-Dashboard-ER图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="830" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHxE2oGUJ_YN22llIvqM-187" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CUD-Dashboard-ER图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wHxE2oGUJ_YN22llIvqM-187" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CUD-自定义模块-ER图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1450" width="830" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxE2oGUJ_YN22llIvqM-311" value="CUD_PAGES&#xa;自定义页面表" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
